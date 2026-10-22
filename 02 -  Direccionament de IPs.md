@@ -9,3 +9,7 @@
 | Router   | Default, ITB315 i ITB316   | ITB315: 192.168.10.10/24   ITB316: 192.168.20.10/24 | Miriam  |
 | Client Windows   | ITB315   | 192.168.20.20/24   | Miriam   |
 | Client Linux   | ITB315   | 192.168.20.21/24   | Miriam   |
+
+ITB315: Intranet
+ITB316: Xarxa DMZ
+Default: NAT
