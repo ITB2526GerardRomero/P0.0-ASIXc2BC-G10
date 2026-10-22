@@ -1,8 +1,8 @@
-**01 - Arquitectura de la xarxa**
+# 01 - Arquitectura de la xarxa
 
 
 
-![Imagen](./images/image_1.jpg)
+![Imatge Xarxa](./Imatges/Sprint 1/image_1.jpg)
 
 
 
