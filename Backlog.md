@@ -58,13 +58,13 @@ El reparto de tareas se ha diseñado agrupando competencias afines para minimiza
 
 ### **Justificación de asignaciones por perfil:**
 
-* **Miriam (Especialista en Infraestructura, Sistemas y Router - P1):**
+* **Miriam [Scrum Master] (Especialista en Infraestructura, Sistemas y Router - P1):**
   * *Por qué se le asignan estas tareas:* Es la responsable de la capa física/virtual y del enrutamiento. Asume la creación de la plantilla base estandarizada en IsardVDI, la configuración del router R-N10 con las 3 interfaces (WAN, DMZ, Intranet) y la implementación de la política de firewall con nftables. Al encargarse de la red base, también asume el despliegue de los dos equipos cliente (PCW-N10 y PCL-N10).
  PDF
-* **Gerard (Especialista en Datos, Aplicaciones y Servicios Web - P3):**
+* **Gerard [Development Team Leader] (Especialista en Datos, Aplicaciones y Servicios Web - P3):**
   * *Por qué se le asignan estas tareas:* Asume el desarrollo y aprovisionamiento de la capa de aplicación y almacenamiento. Se encarga de la instalación y configuración de MySQL (B-N10), el análisis e importación del dataset CSV de equipamientos de Barcelona, el servidor Web (W-N10) y FTP (F-N10), la integración de la *Deploy Key* en GitHub y el desarrollo de la aplicación web ligera con IA.
  PDF
-* **Nahuel (Product Owner, Redes Centrales y Documentación - P2):**
+* **Nahuel [Product Owner] (Product Owner, Redes Centrales y Documentación - P2):**
   * *Por qué se le asignan estas tareas:* Como PO, asume la organización del backlog en ProofHub, el diseño técnico del diagrama de red y el plan maestro de direccionamiento IP. En la parte técnica, se especializa en la configuración de los servicios centrales de infraestructura: el servidor D-N10 con la integración de BIND9 (DNS para la resolución obligatoria del router R y R-N10) y el servidor DHCP. Además, coordina el cierre de los sprints, las pruebas de integración globales y la auditoría final de documentación.
  PDF
 ## **3. Justificación Desglosada de las Tareas por Sprint**
