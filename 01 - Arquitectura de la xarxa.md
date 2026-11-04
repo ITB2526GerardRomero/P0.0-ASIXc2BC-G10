@@ -1,9 +1,9 @@
 # 01 - Arquitectura de la xarxa
 
-
+## Antiga arquitectura de la xarxa
 
 ![Imatge Xarxa](./Imatges/Sprint1/image_1.jpg)
-Fig. 1.1. Arquitectura de la nostra xarxa.
+Fig. 1.1. Antiga arquitectura de la nostra xarxa.
 
 La nostra xarxa es separa en tres parts, la part d’accés a internet, la xarxa dmz i la xarxa intranet.
 
@@ -17,4 +17,6 @@ La **xarxa DMZ** es defineix per obtenir tots els servidors de serveis que es mo
 La **xarxa intranet** és la xarxa que conté els serveis privats, és a dir, que no poden ser accedits per persones fora de l’empresa per aquest cas només hi ha:
 - **Servidor DHCP + DNS**: És el indicat per a crear el pool de les ip per posar automàticament als serveis i és el que resol els noms de R-N10 i R pels altres sistemes.
 - **Client Windows i Client Ubuntu**: Són els que s’utilitzaran per a posar a prova tots els serveis i verificar de que tot funciona.
+
+## Nova arquitectura de la xarxa
 
