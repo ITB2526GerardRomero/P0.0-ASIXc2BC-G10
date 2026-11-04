@@ -25,7 +25,7 @@ Després de veure com vam estructurar la xarxa, vam veure que tenia certes parts
 ![Imatge Xarxa Actualitzada](./Imatges/Sprint1/nova_arquitectura.jpg)
 Fig. 1.2. Nova arquitectura de la nostra xarxa
 
-De la mateixa manera que l'anterior la zona principal, on es troba el servidor router és la zona d’accés a internet, on el router redirecciona el tràfic necessari per a als servidors i els clients. Redirecciona tot el tràfic forense d’internet cap a la xarxa DMZ, i permet que a xarxa intranet pugui accedir a la DMZ, però que la xarxa DMZ no pugui accedir a la xarxa intranet.
+De la mateixa manera que l'anterior estructura de xarxa la zona principal, on es troba el servidor router és la zona d’accés a internet, on el router redirecciona el tràfic necessari per a als servidors i els clients. Redirecciona tot el tràfic forense d’internet cap a la xarxa DMZ, i permet que a xarxa intranet pugui accedir a la DMZ, però que la xarxa DMZ no pugui accedir a la xarxa intranet.
 Però ara, al poder accedir a ambdós xarxes té el DNS ja que sortiria com a representant i el DCHP, ja que així pot posar IPs de manera automàtica a tots els ordinadors i que pugui diferenciarlos.
 
 La **xarxa DMZ** segueix amb els mateixos servidors que abans, però hem ajuntat el **Servidor FTP** amb el **Servidor Web** ja que no hi havia necessitat de crear un tercer servidor per a FTP.
