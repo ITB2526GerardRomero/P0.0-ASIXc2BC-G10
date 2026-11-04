@@ -2,7 +2,7 @@
 
 ## Antiga arquitectura de la xarxa
 
-![Imatge Xarxa](./Imatges/Sprint1/image_1.jpg)
+![Imatge antiga Xarxa](./Imatges/Sprint1/image_1.jpg)
 Fig. 1.1. Antiga arquitectura de la nostra xarxa.
 
 La nostra xarxa es separa en tres parts, la part d’accés a internet, la xarxa dmz i la xarxa intranet.
@@ -20,3 +20,14 @@ La **xarxa intranet** és la xarxa que conté els serveis privats, és a dir, qu
 
 ## Nova arquitectura de la xarxa
 
+Després de veure com vam estructurar la xarxa, vam veure que tenia certes parts errades i fent que la estructura de la xarxa es podia millorar.
+
+![Imatge Xarxa Actualitzada](./Imatges/Sprint1/nova_arquitectura.jpg)
+Fig. 1.2. Nova arquitectura de la nostra xarxa
+
+De la mateixa manera que l'anterior la zona principal, on es troba el servidor router és la zona d’accés a internet, on el router redirecciona el tràfic necessari per a als servidors i els clients. Redirecciona tot el tràfic forense d’internet cap a la xarxa DMZ, i permet que a xarxa intranet pugui accedir a la DMZ, però que la xarxa DMZ no pugui accedir a la xarxa intranet.
+Però ara, al poder accedir a ambdós xarxes té el DNS ja que sortiria com a representant i el DCHP, ja que així pot posar IPs de manera automàtica a tots els ordinadors i que pugui diferenciarlos.
+
+La **xarxa DMZ** segueix amb els mateixos servidors que abans, però hem ajuntat el **Servidor FTP** amb el **Servidor Web** ja que no hi havia necessitat de crear un tercer servidor per a FTP.
+
+De la mateixa manera a la **xarxa Intranet** hem deixat només els clients. D'aquesta manera hem pogut reduir el numero de ordinadors encesos i aixì tenir una xarxa més compacta.
