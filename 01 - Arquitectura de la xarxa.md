@@ -31,3 +31,7 @@ Però ara, al poder accedir a ambdós xarxes té el DNS ja que sortiria com a re
 La **xarxa DMZ** segueix amb els mateixos servidors que abans, però hem ajuntat el **Servidor FTP** amb el **Servidor Web** ja que no hi havia necessitat de crear un tercer servidor per a FTP.
 
 De la mateixa manera a la **xarxa Intranet** hem deixat només els clients. D'aquesta manera hem pogut reduir el numero de ordinadors encesos i aixì tenir una xarxa més compacta.
+
+---
+
+[← README](README.md) ---------------------------------------------------------------------------------------------------------------------------------------- [03 - Encaminament de IPs →](<03 - Encaminament de IPs.md>)
