@@ -12,4 +12,4 @@
 - ITB316: Xarxa DMZ
 - Default: NAT
 
-[← 01 - Arquitectura de la xarxa](<01 - Arquitectura de la xarxa.md>) ---------------------------------------------------------------------------------------------------------------------------------------- [03 - Router + DNS + DHCP →](<03 - Router + DNS + DHCP.md>)
+[← 01 - Arquitectura de la xarxa](<01 - Arquitectura de la xarxa.md>) -------------------------------------------------------------------------------------------------------- [03 - Router + DNS + DHCP →](<03 - Router + DNS + DHCP.md>)
