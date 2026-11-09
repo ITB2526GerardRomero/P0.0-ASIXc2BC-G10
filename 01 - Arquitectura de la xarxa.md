@@ -34,4 +34,4 @@ De la mateixa manera a la **xarxa Intranet** hem deixat només els clients. D'aq
 
 ---
 
-[← README](README.md) ---------------------------------------------------------------------------------------------------------------------------------------- [03 - Encaminament de IPs →](<03 - Encaminament de IPs.md>)
+[← README](README.md) --------------------------------------------------------------------------------------------------------------------------------------- [02 - Direccionament de IPs →](<02 - Direccionament de IPs.md>)
