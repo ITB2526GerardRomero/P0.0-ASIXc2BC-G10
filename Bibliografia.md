@@ -5,3 +5,6 @@ https://www.ionos.es/digitalguide/servidores/configuracion/comando-useradd-de-li
 
 * "Cómo importar un archivo CSV a una base de datos MySQL":
 https://learnsql.es/blog/como-importar-un-archivo-csv-a-una-base-de-datos-mysql/
+
+* "Enlaces e hipervínculos en Markdown":
+https://www.tutorialesprogramacionya.com/markdownya/tema8.html
