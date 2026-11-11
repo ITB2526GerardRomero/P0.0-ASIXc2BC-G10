@@ -6,6 +6,7 @@ El servidor de BBDD és el servidor encarregat de instal·lar el programa de MYS
 
 ## Desplegament del servidor de BBDD
 
+Primer instal·lem el servei MYSQL, i després per verificar que s'ha instal·lat amb èxit executem la comanda "sudo systemctl status mysql" per veure l'estat de MYSQL.
 
 
 ---
