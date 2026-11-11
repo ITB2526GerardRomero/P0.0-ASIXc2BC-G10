@@ -16,7 +16,7 @@ Fig Observació de estat de MYSQL.
 
 Ara creem un usuari el qual només es pot utilitzar desde la IP del servidor web, així cap altre sistema pot accedir a la base de dades, si no es des de el servidor WEB.
 
-![Creació de usuari mysql](./Itamtges/Sprint1/creausuari.png)
+![Creació de usuari mysql](./Imatges/Sprint1/creausuari.png)
 Fig. Creació d'usuari exclusiu per al servidor Web.
 
 ---
