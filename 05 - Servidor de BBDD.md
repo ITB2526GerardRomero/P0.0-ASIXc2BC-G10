@@ -63,4 +63,4 @@ Fig. Ús de la comanda *SELECT* per veure les dades de la taula.
 
 ---
 
-[← 04 - Servidor Web](<04 - Servidor Web.md>) -------------------------------------------------------------------------------------------- [06 - Client Windows i Linux →](<06 - Client Windows i Linux.md>)
+[← 04 - Servidor Web](<04 - Servidor Web.md>) ---------------------------------------------------------------------------------------------- [06 - Client Windows i Linux →](<06 - Clients Windows i Linux.md>)
