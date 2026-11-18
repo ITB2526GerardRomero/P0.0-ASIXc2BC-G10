@@ -1,3 +1,3 @@
 ---
 
-[← 02 - Direccionament de IPs](<02 - Direccionament de IPs.md>) ---------------------------------------------------------------------------------------------- [04 - Servidor Web →](<04 - Servidor Web.md>)
+[← 02 - Direccionament de IPs](<02 -  Direccionament de IPs.md>) ------------------------------------------------------------------------------------------------- [04 - Servidor Web →](<04 - Servidor Web.md>)
