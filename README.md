@@ -5,7 +5,7 @@ Fet per Gerard Romero i Miriam Marcó.
 
 [01 - Arquitectura de la xarxa](<01 - Arquitectura de la xarxa.md>)
 
-[02 - Direccionament de IPs](<02 - Direccionament de IPs.md>)
+[02 - Direccionament de IPs](<02 - Direccionament de IPs>)
 
 [03 - Router + DNS + DHCP](<03 - Router + DNS + DHCP.md>)
 
