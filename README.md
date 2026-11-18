@@ -11,7 +11,7 @@ Fet per Gerard Romero i Miriam Marcó.
 
 [04 - Servidor Web + FTP](<04 - Servidor Web + FTP.md>)
 
-[05 - Servidor BBDD](<05 - Servidor BBDD.md>)
+[05 - Servidor de BBDD](<05 - Servidor de BBDD.md>)
 
 [06 - Clients Windows i Linux](<06 - Clients Windows i Linux.md>)
 
