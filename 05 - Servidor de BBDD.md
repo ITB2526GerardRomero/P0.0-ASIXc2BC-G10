@@ -22,6 +22,8 @@ Fig. Creació d'usuari exclusiu per al servidor Web.
 ![Permisos usuari myslq](./Imatges/Sprint1/Permisos_bchecker.png)
 Fig. Assignació de permisos a l'usuari *bchecker*.
 
+![]
+
 ---
 
 [← 04 - Servidor Web + FTP](<04 - Servidor Web + FTP.md>) -------------------------------------------------------------------------------------------- [06 - Client Windows i Linux →](<06 - Client Windows i Linux.md>)
