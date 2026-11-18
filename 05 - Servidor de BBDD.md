@@ -49,7 +49,17 @@ Ara, per poder permetre que el programa de MYSQL pugui agafar arxius locals hem 
 ![Canvi Configuració de BBDD](./Imatges/Sprint1/Canvi_confbbdd.png)
 Fig. Canvi a la configuració de MYSQL.
 
+Ara per importar l'arxiu CSV a la taula que hem creat abans utilitzem la comanda *LOAD DATA LOCAL INFILE* amb els paràmetres necessaris per determinar a quina taula s'importa tot i com es separen les dades.
 
+![Importació del CSV](./Imatges/Sprint1/Importació_CSV.png)
+
+I per últim, per verificar que s'han afegit de manera correcta les dades a la taula, i que el servidor Web té accés a la base de dades ens ficarem desde l'usuari del servidor Web amb el paràmetre *-h* per indicar el servidor de base de dades, i el paràmetre *-u* per indicar a l'usuari amb el que anem a ficar-nos, en aquest cas, bchecker. Després d'haver-nos ficat exitòsament amb l'usuari utilitzem la comanda *SELECT* per veure totes les dades.
+
+![Accés a la base de dades](./Imatges/Sprint1/Acces_ala_basededades.png)
+Fig. Accedint a MYSQL desde el servidor Web.
+
+![SELECT a la taula taula_escoles](./Imatges/Sprint1/Select_bbdd.png)
+Fig. Ús de la comanda *SELECT* per veure les dades de la taula.
 
 ---
 
