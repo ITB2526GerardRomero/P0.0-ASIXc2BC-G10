@@ -19,7 +19,7 @@ Ara creem un usuari el qual només es pot utilitzar desde la IP del servidor web
 ![Creació de usuari mysql](./Imatges/Sprint1/creausuari.png)
 Fig. Creació d'usuari exclusiu per al servidor Web.
 
-![Permisos usuari myslq](./Imatges/Sprint/Permisos_bchecker.png)
+![Permisos usuari myslq](./Imatges/Sprint1/Permisos_bchecker.png)
 Fig. Assignació de permisos a l'usuari *bchecker*.
 
 ---
