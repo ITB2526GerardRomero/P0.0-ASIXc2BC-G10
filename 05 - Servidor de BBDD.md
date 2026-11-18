@@ -32,9 +32,16 @@ Fig. Assignació de permisos a l'usuari *bchecker*.
 
 Ara descarreguem l'arxiu CSV de la pàgina web que s'ha donat, i obrim dit arxiu amb el programa LibreOffice Calc per a exportar-lo en CSV i que quedi net. Això degut a que si s'intenta importar la base de dades directament del CSV de la pàgina web MYSQL ens dona errors degut als espais que hi ha.
 
-![Descàrrega de CSV]
+![Descàrrega de CSV](./Imatges/Sprint1/Descàrrega_CSV.png)
+Fig. Decàrrega de l'arxiu CSV de la base de dades demanada.
 
-![Abrició de CSV amb OpenOffice]
+![Abrició de CSV amb OpenOffice](./Imatges/Sprint1/Abrició_CSV.png)
+Fig. Obrint l'arxiu CSV amb OpenOffice Calc.
+
+Ara, per poder permetre que el programa de MYSQL pugui agafar arxius locals hem d'editar larxiu */etc/mysql/mysql.conf/mysqld.cnf* i afegir les següents línies, *loose-local-infile=1* i *local_infile=1*:
+
+![Canvi Configuració de BBDD](./Imatges/Sprint1/Canvi_confbbdd.png)
+Fig. Canvi a la configuració de MYSQL.
 
 ---
 
