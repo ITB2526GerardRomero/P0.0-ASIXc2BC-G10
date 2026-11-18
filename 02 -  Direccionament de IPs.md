@@ -1,5 +1,11 @@
 # 02 -  Direccionament de IPs
 
+## - Introducció
+
+Aquesta taula ens servirà per tenir la xarxa de manera estructurada, també per al router i indica quina persona treballa en cada màquina / servidor.
+
+## Taula de IPs
+
 | Servidor | Tarjeta | IP | Responsable | 
 | --------- | --------- | --------- | --------- |
 | BBDD   | ITB316   |  192.168.10.12/24  | Gerard Romero   |
