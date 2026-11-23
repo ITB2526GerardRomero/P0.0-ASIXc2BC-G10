@@ -2,7 +2,7 @@
 
 ## - Introducció
 
-El servidor Web té la tasca de instal·lar el programa NGINX per poder tenir aixì (explicar lo de instalar nginx i que nos sirve para proyectar la base de datos)
+El servidor Web té la tasca de instal·lar el programa NGINX i MYSQL. El programa NGINX ens permet poder crear una pàgina web, i l'utilitarem per projectar la base de dades que té el servidor de Bases de Dades
 
 ## Desplegament del servidor de Web
 
