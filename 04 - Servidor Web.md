@@ -10,6 +10,20 @@ Hem escollit el programa de NGINX ja que és un programa que hem utilitzat abans
 
 ## Desplegament del servidor de Web
 
+### Instal·lació i verificació de funcionament de NGINX
+
+Primer instal·lem NGINX, llavors, per verificar de que NGINX funciona accedem a "http://localhost", amb això podrem veure de que funciona ja que apareix el text *##Welcome to nginx!*.
+
+![Instal·lació de Nginx](./Imatges/Sprint1/installacio_nginx.png)
+Fig. Instal·lació de Nginx.
+
+![Nginx funciona](./Imatges/Sprint1/verificacio_funcionament_nginx.png)
+Fig. Verificació de que, efectivament NGINX funciona.
+
+### Instal·lació de PHP, i preparació de les pàgines web
+
+Per poder permetre afegir codi de PHP a les pàgines web instal·lem PHP amb *apt install*
+
 ---
 
 [← 03 - Router + DNS + DHCP](<03 - Router + DNS + DHCP.md>) -------------------------------------------------------------------------------------------------- [05 - Servidor de BBDD →](<05 - Servidor de BBDD.md>)
