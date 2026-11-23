@@ -28,6 +28,11 @@ Fig. Ús de la comanda *CREATE DATABASE escoles;* per crear la base de dades.
 ![*CREATE TABLE* de taula_escoles](./Imatges/Sprint1/Createtable.png)
 Fig. Ús de la comanda *CREATE TABLE* per crear la taula de escoles.
 
+Per últim per preparar el servidor de Bases hem de canviar la configuració per a que el servidor de Bases de Dades pugui acceptar peticions d'accés cap a la base de dades a MYSQL des d'altres màquines.
+
+![Canvi d'accés de IPs](./Imatges/Sprint1/canvi_access_bbdd.png)
+Fig. Canví de *blind-address*.
+
 ### Creació de l'usuari bchecker
 
 Ara creem un usuari el qual només es pot utilitzar desde la IP del servidor web, així cap altre sistema pot accedir a la base de dades, si no es des de el servidor WEB. També li donem permisos de SELECT, ja que només ens interessa que pugui veure la base de dades i no editar-la, aixì també evitem el fet de que si es fiquen al servidor web puguin editar o borrar la base de dades.
