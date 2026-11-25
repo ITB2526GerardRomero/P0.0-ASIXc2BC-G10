@@ -35,7 +35,7 @@ Fig. Canví de *blind-address*.
 
 ### Creació de l'usuari bchecker
 
-Ara creem un usuari el qual només es pot utilitzar desde la IP del servidor web, així cap altre sistema pot accedir a la base de dades, si no es des de el servidor WEB. També li donem permisos de SELECT, ja que només ens interessa que pugui veure la base de dades i no editar-la, aixì també evitem el fet de que si es fiquen al servidor web puguin editar o borrar la base de dades.
+Ara creem un usuari el qual només es pot utilitzar desde la IP del servidor web, així cap altre sistema pot accedir a la base de dades, si no es des de el servidor WEB. Com volem que l'usuari pugui afegir i eliminar dades li donem els permisos *INSERT*, *UPDATE* i *DELETE*, ELS PERMISOS DE *SELECT* és per a que pugui veure les dades.
 
 ![Creació de usuari mysql](./Imatges/Sprint1/creausuari.png)
 Fig. Creació d'usuari exclusiu per al servidor Web.
