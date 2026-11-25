@@ -14,22 +14,25 @@ Hem escollit el programa de NGINX ja que és un programa que hem utilitzat abans
 
 Primer instal·lem NGINX, llavors, per verificar de que NGINX funciona accedem a "http://localhost", amb això podrem veure de que funciona ja que apareix el text *Welcome to nginx!*.
 
-![Instal·lació de Nginx](./Imatges/installacio_nginx.png)
+![Instal·lació de Nginx](./Imatges/Sprint1/installacio_nginx.png)
 Fig. Instal·lació de Nginx.
 
-![Nginx funciona](./Imatges/verificacio_funcionament_nginx.png)
+![Nginx funciona](./Imatges/Sprint1/verificacio_funcionament_nginx.png)
 Fig. Verificació de que, efectivament NGINX funciona.
 
 ### Instal·lació de PHP, i preparació de les pàgines web
 
 Per poder permetre afegir codi de PHP i crear arxius PHP per les pàgines web instal·lem PHP pel contingut necessesari amb *apt install*.
 
-![Apt install de PHP](./Imatges/instal·lació_php.png)
+![Apt install de PHP](./Imatges/Sprint1/instal·lació_php.png)
 Fig. Instal·lació de PHP.
 
 ### Configuració de NGINX i creació de la pàgina web
 
-Posem a l'arxiu "/etc/nginx/sitex-available/default" les dades per defecte
+Posem a l'arxiu "/etc/nginx/sitex-available/default" les dades per defecte i és la part que fa al NGINX utilitzar PHP.
+
+![Default Nginx](./Imatges/Sprint1/)
+Fig. *Default* de NGINX.
 
 ---
 
