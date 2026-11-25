@@ -6,7 +6,7 @@ El servidor de BBDD és el servidor encarregat de instal·lar el programa de MYS
 
 ### ¿Perquè hem escollit MYSQL per a la Base de Dades?
 
-Hem escollit MYSQL, ja que permet 
+Hem escollit MYSQL, ja que permet una connexió senzilla de codi entre la base de dades que anem a crear i el programa NGINX, el qual és el que utilitzarem per al servidor web. Ja que per conectar-los només necessitem el llenguatge de programari PHP.
 
 ## Desplegament del servidor de BBDD
 
